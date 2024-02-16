@@ -1,3 +1,3 @@
-# Some thing
+# This is a beautiful read.me file
 
-Some
+Yeah!
