@@ -1,8 +1,3 @@
-# Gilka2
+# Master
 
-This is Gilka2
-=======
-
-# This is a beautiful read.me file
-
-Yeah!
+This is a master readme
